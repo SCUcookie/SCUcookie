@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SCUcookie
+- 👋 Hi, I’m Li DInghao
 - 👀 I’m interested in playing games and cube.
 - 🌱 I’m currently learning C++ and C.
-- 💞️ I’m looking to collaborate on change my collage major.
-- 📫 How to reach me 2799656071@qq.com.
+- 📫 How to reach me lidinghao@stu.scu.edu.cn.
 
 <!---
 SCUcookie/SCUcookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
